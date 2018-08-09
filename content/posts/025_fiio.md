@@ -1,7 +1,11 @@
-title: A Promotion, a Week Off and a New Toy
-summary: I got a promotion at the end of July and rewarded myself by buying a Fiio E18 DAC/headphone amplifier. I've listened to it for about a month and overall I am very pleased with it.
-tags: Audio
-date: 20140823
+---
+title: "A Promotion, a Week Off and a New Toy"
+description: "I got a promotion at the end of July and rewarded myself by buying a Fiio E18 DAC/headphone amplifier. I've listened to it for about a month and overall I am very pleased with it."
+tags: 
+- Audio
+date: 2014-08-23
+draft: true
+---
 
 In July I successfully applied for a promotion to Senior Engineer. As a reward to myself -- not only for the promotion but also for recently working very hard and outside of my usual comfort zone -- I purchased a portable digital-to-analogue converter (DAC) and headphone amplifier. I also had a week off work at the beginning of August that included two long train journeys to give the DAC a trial.
 

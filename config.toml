@@ -8,7 +8,7 @@ relativeURLs             = true
 # googleAnalytics        = "xxx"             # Tracking code, eg. "UA-111111111-1"
 
 [params]
-    dateform             = "2006-02-01"
+    dateform             = "2006-01-02"
     dateformfull         = "Monday 02 January 2006 15:04:05 EST"
     favicon              = "/sam.ico"
     homepage             = "main"                        # What to call the home page link
@@ -18,7 +18,7 @@ relativeURLs             = true
                                                          # Note: This will only become active if clickablePhotos is also true.
     smallImagesSubfolder = "small/"                      # Folder for image thumbnails (small versions) after "/content/gallery/[galleryFolder]" (eg. "small/")
                                                          # For each image the small version has to have the same filename as the big version.
-    footerText           = "Call me Sam, a theme for Hugo."
+    footerText           = "Powered by Hugo using the Call me Sam theme."
 
 # Metadata
     description          = "A new Hugo site."            # Max 160 characters show in search results
@@ -26,8 +26,8 @@ relativeURLs             = true
     primaryImage         = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
 # [[params.mainMenu]]
-#     link = "/posts"
-#     text = "writing"
+    # link = "/posts"
+    # text = "writing"
 
 # [[params.mainMenu]]
 #     link = "/gallery"

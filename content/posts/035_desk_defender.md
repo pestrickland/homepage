@@ -1,8 +1,12 @@
-title: Project Desk Defender
-summary: I briefly describe an idea to design and build an automatic tracking Nerf gun -- for educational purposes
-tags: Desk defender, STEM
-date: 20160515
-status: published
+---
+title: "Project Desk Defender"
+description: "I briefly describe an idea to design and build an automatic tracking Nerf gun -- for educational purposes"
+tags: 
+- Desk defender
+- STEM
+date: 2016-05-15
+draft: true
+---
 
 ## Introduction
 

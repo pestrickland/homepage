@@ -1,12 +1,15 @@
-:title: Splashing out
-:summary: After barely a year of drinking coffee, I bought a beast of an espresso machine, the Londinium I
-:tags: Coffee
-:date: 20151024
-:status: published
+---
+title: "Splashing out"
+description: "After barely a year of drinking coffee, I bought a beast of an espresso machine, the Londinium I"
+tags: 
+- Coffee
+date: 2015-10-24
+draft: true
+---
 
-The last year has been an exciting one for me as I discovered speciality coffee. After `Starting off <{filename}023_coffee.md>`_ with a `variety of ground coffee <{filename}024_elephant.md>`_, I quickly discovered the benefit of freshly grinding beans. Before too long I'd `purchased a Gaggia Classic <{filename}027_coffee_update.md>`_ to make espresso. This then led to a new grinder to produce *good* espresso without having to spend ages using a hand grinder.
+The last year has been an exciting one for me as I discovered speciality coffee. After [starting off](../023_coffee.md) with a [variety of ground coffee](../024_elephant.md), I quickly discovered the benefit of freshly grinding beans. Before too long I'd [purchased a Gaggia Classic](../027_coffee_update.md) to make espresso. This then led to a new grinder to produce *good* espresso without having to spend ages using a hand grinder.
 
-Throughout 2015 my quest for exceptional espresso continued. I kept drinking `Pact coffee <http://www.pactcoffee.com>`_, but also tried a variety of other roasters. I visited a `local roaster <http://www.beanshot.co.uk/>`_, the `London Coffee Festival <http://www.londoncoffeefestival.com/>`_ and a number of coffee shops wherever I went. The absolute highlight, however, was the purchase of the Londinium I espresso machine.
+Throughout 2015 my quest for exceptional espresso continued. I kept drinking [Pact coffee](https://www.pactcoffee.com), but also tried a variety of other roasters. I visited a [local roaster](http://www.beanshot.co.uk/), the [London Coffee Festival](https://www.londoncoffeefestival.com/) and a number of coffee shops wherever I went. The absolute highlight, however, was the purchase of the Londinium I espresso machine.
 
 After having the Gaggia Classic for a while, I realised that espresso was something I truly enjoyed, and I thought it was really only a matter of time before I bought another machine. Whilst you can produce good coffee from the Classic, the results do vary a lot. So I imagined I'd get something a bit more substantial, and an E61 design to improve temperature stability. But then I saw the Londinium I.
 
