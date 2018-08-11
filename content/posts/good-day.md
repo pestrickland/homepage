@@ -2,7 +2,7 @@
 title: "Good Day"
 date: 2018-08-10T21:16:50Z
 showDate: true
-draft: true
+draft: false
 tags: ["blog","work"]
 ---
 
