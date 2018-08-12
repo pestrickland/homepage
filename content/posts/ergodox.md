@@ -1,11 +1,10 @@
 ---
 title: The ErgoDox keyboard
 summary: A summary of my experience of the ErgoDox keyboard
-tags:
-- Ergonomics
-- Keyboard
+tags: ["Ergonomics","Keyboard"]
 date: 2016-01-25
-draft: true
+showDate: true
+draft: false
 ---
 
 I built an [ErgoDox](https://deskthority.net/wiki/ErgoDox) keyboard in 2013 from a kit sold by [MassDrop](https://www.massdrop.com/). It was
@@ -68,39 +67,24 @@ Although I'm improving, typing on my ErgoDox is still slower than a standard key
 
 One of the great things about this keyboard is its flexibility for key layouts and layers. I started with Colemak as described above. On this layer I also have layer toggles and switches. Toggles switch layer as long as the key is held down (like the Shift key of a standard keyboard), whereas switching layers requires another key to be pressed to return to the previous layer (as with the Caps Lock key).
 
-.. figure:: /images/keyboard_layer_0.jpg
-    :alt: Layer 0 of my keyboard
-    :target: /images/keyboard_layer_0.jpg
-    :figwidth: 100%
-    :width: 100%
-    :scale: 100%
-
-    *Layer 0, the main layer of my keyboard*
+{{<figure   src="/images/keyboard_layer_0.jpg"
+            alt="Layer 0 of my keyboard"
+            caption="Layer 0, the main layer of my keyboard">}}
 
 The thumb cluster is probably a bit neglected at the moment. The most used of these keys are Space and Backspace, followed by Return and Delete. The other keys are less accessible without moving my hand but could probably be put to a better use than they are currently.
 
 Layer 1 consists of function keys, brackets and symbols. This layer also
 includes a few media keys such as Volume Up, Down and Mute.
 
-.. figure:: /images/keyboard_layer_1.jpg
-    :alt: Layer 1 of my keyboard
-    :target: /images/keyboard_layer_1.jpg
-    :figwidth: 100%
-    :width: 100%
-    :scale: 100%
-
-    *Layer 1, symbols and function keys*
+{{<figure   src="/images/keyboard_layer_1.jpg"
+            alt="Layer 1 of my keyboard"
+            caption="Layer 1, symbols and function keys">}}
 
 Finally, I also have a NumPad layer for my right hand.
 
-.. figure:: /images/keyboard_layer_2.jpg
-    :alt: Layer 2 of my keyboard
-    :target: /images/keyboard_layer_2.jpg
-    :figwidth: 100%
-    :width: 100%
-    :scale: 100%
-
-    *Layer 2, a numeric keypad*
+{{<figure   src="/images/keyboard_layer_2.jpg"
+            alt="Layer 2 of my keyboard"
+            caption="Layer 2, a numeric keypad">}}
 
 I change the keys quite often as I discover what works for me and what doesn't. My layout is available on [GitHub](https://github.com/pestrickland/ergodox-firmware).
 
@@ -143,13 +127,9 @@ with one piece of rigid foam and one that is softer. I used the rigid foam to
 cut out an ErgoDox-shaped hole that holds the lower keyboard half in place. All
 I need now is a similar piece of foam to put in the other half.
 
-.. figure:: /images/keyboard_case.jpg
-    :alt: The right-hand keyboard in its case
-    :figwidth: 100%
-    :width: 100%
-    :scale: 100%
-
-    *The right-hand keyboard in its case*
+{{<figure   src="/images/keyboard_case.jpg"
+            alt="The right-hand keyboard in its case"
+            caption="The right-hand keyboard in its case">}}
 
 With the case, I can easily travel with my keyboard, packing it without
 worrying about it getting damaged, or carrying it separately. I try to spend a

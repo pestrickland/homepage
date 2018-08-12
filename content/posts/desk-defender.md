@@ -1,10 +1,9 @@
 ---
 title: "Project Desk Defender"
 description: "I briefly describe an idea to design and build an automatic tracking Nerf gun -- for educational purposes"
-tags: 
-- Desk defender
-- STEM
+tags: ["Desk Defender","STEM"]
 date: 2016-05-15
+showDate: true
 draft: true
 ---
 
@@ -14,11 +13,11 @@ The beginning of 2016 saw me taking an interest in promoting STEM (science, tech
 
 Based on the experience of this year's applicants, I thought it would be useful to have some sort of involvement with people before they applied, if only to tell them what not to put in their CVs.
 
-Since then, I've joined [STEMNET](http://www.stemnet.org.uk) as an ambassador and have an Arkwright Scholar to mentor. During that time, I've also been brainstorming projects that I could design and manufacture for demonstration of engineering concepts at school. This led to the *desk defender* (a working title), and I will document my progress here.
+Since then, I've joined [STEM Learning](https://www.stem.org.uk/stem-ambassadors/) as an ambassador and have an Arkwright Scholar to mentor. During that time, I've also been brainstorming projects that I could design and manufacture for demonstration of engineering concepts at school. This led to the *Desk Defender* (a working title), and I will document my progress here.
 
-The desk defender is a project to essentially combine the technology of a close-in weapon system -- such as Phalanx or Goalkeeper, the latter described on [Wikipedia](https://en.wikipedia.org/wiki/Goalkeeper_CIWS) and shown below (or [here](https://youtu.be/6CHDjOCyixU) on YouTube) -- with the lower destructive capacity of a Nerf-style gun.
+The Desk Defender is a project to essentially combine the technology of a close-in weapon system -- such as Phalanx or Goalkeeper, the latter described on [Wikipedia](https://en.wikipedia.org/wiki/Goalkeeper_CIWS) and shown below (or [here](https://youtu.be/6CHDjOCyixU) on YouTube) -- with the lower destructive capacity of a Nerf-style gun.
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/6CHDjOCyixU" frameborder="0" allowfullscreen></iframe>
+{{< youtube 6CHDjOCyixU >}}
 
 ## Requirements capture
 
