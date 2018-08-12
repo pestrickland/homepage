@@ -1,13 +1,13 @@
 ---
 title: "Splashing out"
 description: "After barely a year of drinking coffee, I bought a beast of an espresso machine, the Londinium I"
-tags: 
-- Coffee
+tags: ["Coffee"]
+showDate: true
 date: 2015-10-24
-draft: true
+draft: false
 ---
 
-The last year has been an exciting one for me as I discovered speciality coffee. After [starting off](../023_coffee.md) with a [variety of ground coffee](../024_elephant.md), I quickly discovered the benefit of freshly grinding beans. Before too long I'd [purchased a Gaggia Classic](../027_coffee_update.md) to make espresso. This then led to a new grinder to produce *good* espresso without having to spend ages using a hand grinder.
+The last year has been an exciting one for me as I discovered speciality coffee. After [starting off]({{<ref "coffee.md">}}) with a [variety of ground coffee]({{<ref "elephant.md">}}), I quickly discovered the benefit of freshly grinding beans. Before too long I'd [purchased a Gaggia Classic]({{<ref "coffee_update.md">}}) to make espresso. This then led to a new grinder to produce *good* espresso without having to spend ages using a hand grinder.
 
 Throughout 2015 my quest for exceptional espresso continued. I kept drinking [Pact coffee](https://www.pactcoffee.com), but also tried a variety of other roasters. I visited a [local roaster](http://www.beanshot.co.uk/), the [London Coffee Festival](https://www.londoncoffeefestival.com/) and a number of coffee shops wherever I went. The absolute highlight, however, was the purchase of the Londinium I espresso machine.
 
