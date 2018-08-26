@@ -12,7 +12,7 @@ script:
 
 before_deploy:
   - "echo 'Ready?'"
-  - "echo `pwd`"
+  - "ls public"
 deploy:
   provider: firebase
   token:
