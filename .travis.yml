@@ -1,11 +1,18 @@
 sudo: true
 dist: trusty
+env:
+  - HUGO_VERSION="0.47"
 install:
-  - sudo apt-get --yes install snapd
-  - sudo snap install hugo
+  - wget -q https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - tar xf hugo_${HUGO_VERSION}_Linux-64bit.tar.gz
+  - mv hugo ~/bin/
 
 script:
-  - /snap/bin/hugo
+  - hugo
+
+before_deploy:
+  - "echo 'Ready?'"
+  - "echo `pwd`"
 deploy:
   provider: firebase
   token:
