@@ -11,7 +11,7 @@ googleAnalytics          = "UA-29767888-1"               # Tracking code, eg. "U
     dateform             = "2006-01-02"
     dateformfull         = "Monday 02 January 2006 15:04:05 EST"
     favicon              = "/sam.ico"
-    homepage             = "Main"                        # What to call the home page link
+    homepage             = "Home"                        # What to call the home page link
     galleryFolder        = "images/"                     # Where you've put your images, after "/content/gallery/" (eg. "images/")
     clickablePhotos      = true                          # Allow links to the full size images
     smallPreviewImages   = true                          # Show thumbnails (small images) instead of using full size images on the gallery page
@@ -36,15 +36,15 @@ googleAnalytics          = "UA-29767888-1"               # Tracking code, eg. "U
 [[params.mainMenu]]
     link = "/about"
     text = "About Paul"
-    
+
 [[params.mainMenu]]
     link = "https://graffiti.pestrickland.co.uk"
     text = "Graffiti Notebook"
-    
+
 [[params.mainMenu]]
     link = "https://strava.com/athletes/paul_strickland"
     text = "Strava"
-    
+
 [[params.mainMenu]]
     link = "https://www.linkedin.com/in/pestrickland"
     text = "LinkedIn"
