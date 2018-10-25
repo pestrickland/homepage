@@ -35,28 +35,39 @@ This "lambda diagram" introduces two new concepts:
 1. Requirements and validation form the foundation of the activity
 2. A task's 'gravity' works against you until you have a good plan, but works with you once you design and test your product
 
-### Requirements are the foundations of your project
+### Requirements are one side of your project's foundations
 
 If you don't get your requirements right, you will struggle to deliver. On many projects in the past, the left hand side of the V-diagram is not treated with the importance it deserves, and everybody rushes to start work. It's only once the work is complete and it's noticed that it doesn't actually answer the exam question that people realise there was misunderstanding of the actual requirement.
 
 If you take the time to fully understand your customer's requirements, then you have established the basis for validating your product at the end of the project.
 
+### Validation holds up the other side of the project
+
+Even f you manage to capture the customer requirements correctly, you still need a plan to check whether the output of your project meets those requirements. A lot can happen between the requirement being defined and the delivery of the finished product. *Scope creep* is one big culprit in the divergence of the project away from its requirements and this can lead to delays and overspends. So whilst the customer agreed to a feasibility study and paid £10k for delivery within a month, delivery of a preliminary design two months late and at double the price clearly is not a valid solution.
+
+Now, it may be that some people in the team believed that the customer was wrong to ask for that study, and that putting in the extra work at this point in a longer programme of work would be beneficial in the long run (based on the team's experience). That still doesn't change the fact that the validation fails. Instead, it shows that the project was built on inadequate foundations. The requirements were captured incompletely, and any validation plans put in place did not consider whether delivery of the customer's request was actually the best thing to be delivering. Had more time been spent at the requirements/validation stage, those people on the team could have discussed their thoughts with the customer, and the requirements could have been revised before the contract was signed, leading to a happy customer who got ultimately found themselves in a better position earlier in the programme than they thought they could be.
+
+---
+
 ### Define your requirements in detail
 
-Your customer wants a widget, right? Wrong. Even if they say that's what is required, it most likely isn't. Your customer might have a need that *results* in a widget, but you should focus on that need first. What problem do they need solving?
+Your customer wants a widget, right? Wrong. Even if they say that's what is required, it most likely isn't. Your customer might have a need that *results* in a widget, but you should focus on that need first. What problem do they need to be solved?
 
-Once the customer's requirement is understood, you can proceed to derive a comprehensive set of system-level requirements. Now, in a manufacturing world this is where a requirement can become more tangible. You may be able to define the interaction of a future product with its environment and define requirements based on that.
+Once the customer's requirement is understood, you can proceed to derive a comprehensive set of system-level requirements. Now, in a manufacturing world this is where a requirement can become more tangible: you may be able to define the interaction of a future product with its environment and define requirements based on that.
 
-If you do not produce "things", then what can you do here?
+However, if you do not produce "things", then what can you do here? Whatever your customer needs, there will be some scope for the need and a boundary within which the need exists. The key is to define that scope and boundary, to minimise the amount of extraneous work.
 
-Whatever your customer needs, there will be some scope for that need and a boundary within which the need exists. The key is to define that scope and boundary, to minimise the amount of extraneous work.
+#### An example
 
 Emma wants some advice about the procurement of a new anti-rodent system. She might ask you to tell her which rat trap is the best, but really her problem is about rodent infestation. Knowing that, how can you define the scope of the problem, or the boundary that your solution will sit within?
 
 You discuss the problem with Emma and establish that she requires some form of pest control -- traps might not be the only solution. Further definition of the requirement begins to outline the boundary:
 
 * The problem exists in a large, rural environment
-* Regular inspections are not readily feasible
+* Regular inspections of traps are not easily achievable
 * Abundant wildlife is a concern
+* Whatever the method of control taken, it must be humane
+
+
 
 
