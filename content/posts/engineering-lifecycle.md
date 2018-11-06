@@ -2,7 +2,7 @@
 title: "Engineering Lifecycle"
 date: 2018-08-25T21:29:08Z
 showDate: true
-draft: true
+draft: false
 tags: ["blog","opinion"]
 ---
 
