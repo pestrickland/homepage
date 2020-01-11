@@ -72,7 +72,7 @@ The method used in the Heroes tutorial looks like this:
         catchError(this.handleError<Hero>('addHero'))
         );
   }
-{{< / highlight }}
+{{< / highlight >}}
 
 The `add` method in AngularFire2 is used instead of the `http.post` method. However, whilst `post` returns an Observable, `add` returns a Promise (when adding to a Firestore Collection). Since Promises cannot be subscribed to or piped, we need to use the `.then()` clause. In addition, since using `valueChanges()` only gives us access to basic data, we need to change the approach to log the id.
 
