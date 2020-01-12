@@ -39,7 +39,7 @@ googleAnalytics          = "UA-29767888-1"               # Tracking code, eg. "U
 
 [[params.mainMenu]]
     link = "/microposts"
-    text = "microposts"
+    text = "Microposts"
 
 [[params.mainMenu]]
     link = "https://graffiti.pestrickland.co.uk"
