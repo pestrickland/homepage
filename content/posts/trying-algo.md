@@ -1,6 +1,6 @@
 ---
 title: "Trying Algo"
-date: 2020-01-24T23:03:20Z
+date: 2020-01-26 22:53:42
 showDate: true
 draft: false
 tags: ["blog"]
@@ -42,6 +42,10 @@ python3 -m pip install -r requirements.txt
 ## Starting a VPN
 
 Once it's installed, you can just run `algo` and follow the on-screen instructions. Guides are provided on GitHub for various providers. I've tried DigitalOcean and Google Compute Engine so far. DigitalOcean is very easy -- once you've set up an account you just need to copy your API key and Algo will do the rest. I had a problem with Google Compute Engine works that I haven't solved yet, and similarly with Microsoft Azure. I'll update this once I get them working.
+
+### Update on GCE
+
+I was able to get this working by setting up the service using the Google Cloud Shell. I don't know quite what wasn't working by running the process on my Chromebook (or desktop), but it may have been due to the versions of Python used/required.
 
 ## Using the VPN
 
