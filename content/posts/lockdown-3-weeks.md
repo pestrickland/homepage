@@ -6,14 +6,6 @@ draft: false
 tags: ["blog","story"]
 ---
 
-* Exercise is great
-* Routine is important
-* Changing to an early bird
-* Remote working vs working from home
-* Dressing for the occasion
-* Caffeine
-* GR Crew
-
 ## Introduction
 
 At this point, Easter 2020, the UK has been restricted to lockdown conditions for three weeks. Despite not being a particularly extroverted or social person, there have still been some significant changes I've had to make. I thought it would be a good opportunity to reflect on the past few weeks as I prepare for this situation to be last longer.
@@ -25,12 +17,6 @@ When the idea of a lockdown was being discussed, I thought I would be affected i
 * Lack of social interaction
 * Inability to exercise
 * Drop in productivity
-
-### Issue
-
-Prospect
-
-Reality
 
 ### Social interaction
 
