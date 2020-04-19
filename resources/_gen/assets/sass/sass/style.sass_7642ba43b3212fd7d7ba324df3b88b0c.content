@@ -75,7 +75,6 @@ hr {
     .wrapper {
       padding: 1rem;
       width: 100%; } }
-
 .tag-container {
   display: flex;
   flex-direction: row;
@@ -130,7 +129,6 @@ footer {
   @media screen and (max-width: 736px) {
     #splash {
       width: 90%; } }
-
 .big-link {
   font-family: "Didact Gothic", "sans serif";
   font-size: 3rem;
@@ -222,7 +220,7 @@ footer {
     #content li:last-child {
       margin-bottom: 1rem; }
   #content ul {
-    list-style: none;
+    list-style: disc outside;
     padding-left: 2rem; }
   #content ol {
     list-style: decimal outside;
@@ -237,7 +235,7 @@ footer {
       color: #fff; }
       #content .gist .gist-meta a {
         color: #fff; }
-  #content article.micropost {
+  #content article.micropost-list {
     background-color: #2e363f;
     margin-bottom: 1rem;
     padding: 1rem; }
@@ -259,7 +257,6 @@ footer {
   @media screen and (max-width: 736px) {
     .grid {
       grid-template-columns: repeat(auto-fit, minmax(100%, 1fr)); } }
-
 .grid > div {
   background-color: transparent;
   overflow: hidden; }
