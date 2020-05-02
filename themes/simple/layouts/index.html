@@ -1,0 +1,30 @@
+{{ define "header" }}
+<header class="homepage-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Params.subtitle }}
+    <span class="subtitle">{{.}}</span>
+    {{ end }}
+</header>
+{{ end }}
+{{ define "main" }}
+<main>
+    <div class="homepage-content">{{ .Content }}</div>
+    <section class="item-d grid">{{ if .Site.Params.mainMenu }}
+        {{ range .Site.Params.mainMenu }}
+        <div>
+            <a href="{{.link}}">{{.text}}</a>
+        </div>
+        {{ end }}
+        {{ else }}
+        {{ range .Site.Sections }}
+        <div><a href="{{.Permalink}}">{{.Title}}</a></div>
+        {{ end }}
+        {{ end }}
+    </section>
+
+    <div class="homepage-snippets">{{ range first 10 .Site.RegularPages }}
+        {{ .Render "summary" }}
+        {{ end }}
+    </div>
+</main>
+{{ end }}
