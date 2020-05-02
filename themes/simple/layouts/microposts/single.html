@@ -1,0 +1,15 @@
+{{ define "main" }}
+<main id="content">
+    <article class="micropost">
+        {{ .Content }}
+        <aside class="dates">
+            <a href="{{ .Permalink }}">{{ .Date.Format (.Site.Params.dateForm | default "03:45, 02 January 2006") }}</a>
+        </aside>
+    </article>
+</main>
+{{ end }}
+{{ define "bottom-menu" }}
+<section class="bottom-menu">
+    {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}
+</section>
+{{ end }}

@@ -1,0 +1,30 @@
+{{ define "header" }}
+<header>
+    <h1>
+        {{- .Title -}}
+    </h1>
+</header>
+{{ end }}
+{{ define "main" }}
+<main id="content">
+    {{- .Date.Format (.Site.Params.dateForm | default "02 January 2006") -}}
+    &#183; {{ .WordCount }} words
+    {{/* with .Params.tags }}
+    <div class="tag-container">
+        {{ range .}}
+        <span class="tag">
+            <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{.}}</a>
+        </span>
+        {{ end }}
+    </div>
+    {{ end */}}
+    <hr />
+    {{ .Content }}
+</main>
+{{ end }}
+{{/* define "bottom-menu" }}
+<section class="bottom-menu">
+    {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}
+</section>
+{{ end */}}
+
