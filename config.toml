@@ -18,7 +18,7 @@ googleAnalytics          = ""
                                                          # Note: This will only become active if clickablePhotos is also true.
     smallImagesSubfolder = "small/"                      # Folder for image thumbnails (small versions) after "/content/gallery/[galleryFolder]" (eg. "small/")
                                                          # For each image the small version has to have the same filename as the big version.
-    footerText           = "Powered by Hugo. Hosted on Netlify."
+    footerText           = "Powered by [Hugo](https://gohugo.io). Hosted on [Netlify](https://www.netlify.com)."
 
 # Metadata
     description          = "The homepage of Paul Strickland, an aerospace engineer working in the UK defence industry" # Max 160 characters show in search results

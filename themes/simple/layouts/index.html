@@ -8,8 +8,12 @@
 {{ end }}
 {{ define "main" }}
 <main>
-    <div class="homepage-content">{{ .Content }}</div>
-    <section class="item-d grid">{{ if .Site.Params.mainMenu }}
+    <div class="homepage-content">{{- .Content -}}</div>
+</main>
+{{ end }}
+{{ define "aside" }}
+<aside>
+    <section class="grid">{{ if .Site.Params.mainMenu }}
         {{ range .Site.Params.mainMenu }}
         <div>
             <a href="{{.link}}">{{.text}}</a>
@@ -21,10 +25,9 @@
         {{ end }}
         {{ end }}
     </section>
-
+</aside>
     <div class="homepage-snippets">{{ range first 10 .Site.RegularPages }}
         {{ .Render "summary" }}
         {{ end }}
     </div>
-</main>
 {{ end }}
