@@ -107,6 +107,8 @@ body {
 
 header {
   font-family: 'Sanchez', serif;
+  color: #1446a0;
+  background-color: #f5d547;
 }
 header > h1 {
   font-weight: 400;
@@ -116,13 +118,18 @@ header > h1 {
   font-size: 1.5rem;
 }
 
+main a {
+  color: #000;
+  background-color: #f5d547;
+}
+
 .container {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr));
   grid-template-rows: auto;
   gap: 1rem;
   grid-template-areas:
-    "header header header header"
+    "header header header ."
     "main main main sidebar"
     "footer footer footer footer";
   padding: 0 4em ;
