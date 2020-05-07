@@ -108,10 +108,13 @@ body {
 header {
   font-family: 'Sanchez', serif;
   color: #1446a0;
-  background-color: #f5d547;
+  border-left: #f5d547 solid 0.5em;
+  margin-left: -1em;
+  padding-left: 0.5em;
 }
 header > h1 {
   font-weight: 400;
+  margin: 0.25em 0;
 }
 .subtitle {
   font-family: 'Sanchez', serif;
@@ -120,7 +123,14 @@ header > h1 {
 
 main a {
   color: #000;
-  background-color: #f5d547;
+  /* background-color: #f5d547; */
+  text-decoration: none;
+  /* border-bottom: #f5d547 solid 3px; */
+  background: linear-gradient(180deg, #fff, 65%, #f5d547 65%);
+}
+
+main a:hover {
+  text-decoration: underline;
 }
 
 .container {
@@ -132,7 +142,7 @@ main a {
     "header header header ."
     "main main main sidebar"
     "footer footer footer footer";
-  padding: 0 4em ;
+  padding: 2em 4em ;
 }
 
 main {
