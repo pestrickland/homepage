@@ -14,7 +14,7 @@
 html {
   color: #222;
   font-size: 1em;
-  line-height: 1.4;
+  line-height: 1.5;
 }
 
 /*
@@ -149,8 +149,17 @@ main {
   grid-area: main;
 }
 
+main p {
+  margin-block-end: 1.5em;
+  margin-block-start: 1.5em;
+}
+
 aside {
   grid-area: sidebar;
+}
+
+aside > nav {
+  margin-top: 1.5em;
 }
 
 header {
