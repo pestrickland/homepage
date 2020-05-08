@@ -1,12 +1,16 @@
 {{ define "main" }}
 <main id="content">
     {{ .Content }}
+    {{ $showDate := .Params.showDate }}
     <ul id="post-list">{{ range .Data.Pages }}
         <li>
             <a href="{{.Permalink}}">{{ .Title }}</a>
-            {{- if .Params.showDate -}}
+
+            {{ if $showDate }}
+
             <span class="list-date"> – {{ .Date.Format (.Site.Params.dateForm | default "Mon 02 January, 2006") }}</span>
-            {{- end -}}
+
+            {{ end }}
         </li>
         {{ end }}
     </ul>
