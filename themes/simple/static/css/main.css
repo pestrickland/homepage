@@ -172,6 +172,13 @@ main p {
   /* padding-left: 0.875em; */
 }
 
+#post-list .list-date {
+  font-family: "Fira Sans", sans-serif;
+  font-style: italic;
+  font-size: 0.75em;
+  color: #ccc;
+}
+
 aside {
   grid-area: sidebar;
 }
