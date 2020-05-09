@@ -19,6 +19,7 @@ googleAnalytics          = ""
     smallImagesSubfolder = "small/"                      # Folder for image thumbnails (small versions) after "/content/gallery/[galleryFolder]" (eg. "small/")
                                                          # For each image the small version has to have the same filename as the big version.
     footerText           = "Powered by [Hugo](https://gohugo.io). Hosted on [Netlify](https://www.netlify.com)."
+    showMicroposts       = true
 
 # Metadata
     description          = "The homepage of Paul Strickland, an aerospace engineer working in the UK defence industry" # Max 160 characters show in search results

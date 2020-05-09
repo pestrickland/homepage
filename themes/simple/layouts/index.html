@@ -9,6 +9,24 @@
 {{ define "main" }}
 <main>
     <article>{{- .Content -}}</article>
+        {{ if .Site.Params.showMicroposts }}
+    <h2>Microposts</h2>
+    <section class="microposts">
+        {{ with .Site.GetPage "microposts" }}
+          {{ range .Data.Pages }}
+        <article class="micropost">
+            {{ .Content }}
+            <aside class="list-date">
+                <a href="{{.Permalink}}">{{.Date.Format "15:04 on Monday 02 January 2006" }}</a>
+            </aside>
+        </article>
+        {{ end }}
+
+        {{ end }}
+
+    </section>
+
+        {{ end }}
 </main>
 {{ end }}
 {{ define "aside" }}

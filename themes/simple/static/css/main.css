@@ -172,11 +172,16 @@ main p {
   /* padding-left: 0.875em; */
 }
 
-#post-list .list-date {
+.list-date {
   font-family: "Fira Sans", sans-serif;
   font-style: italic;
   font-size: 0.75em;
   color: #ccc;
+}
+
+.micropost {
+  border: solid 1px #1446a0;
+  margin-bottom: 1em;
 }
 
 aside {
