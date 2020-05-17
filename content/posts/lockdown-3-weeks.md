@@ -3,7 +3,7 @@ title: "Three Weeks of Lockdown"
 date: 2020-04-11T15:32:15Z
 showDate: true
 draft: false
-tags: ["blog","story"]
+tags: ["blog","story","lockdown"]
 ---
 
 ## Introduction
