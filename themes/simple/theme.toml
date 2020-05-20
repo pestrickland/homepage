@@ -4,18 +4,12 @@
 name = "Simple"
 license = "MIT"
 licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
-homepage = "http://example.com/"
+description = "A simple theme built from scratch for my own use."
+homepage = "https://pestrickland.co.uk/"
 tags = []
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "Paul Strickland"
+  homepage = "https://pestrickland.co.uk"
