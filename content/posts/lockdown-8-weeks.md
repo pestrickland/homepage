@@ -1,8 +1,8 @@
 ---
 title: "Eight Weeks of Lockdown"
-date: 2020-05-17T10:20:23Z
+date: 2020-05-21T09:01:06Z
 showDate: true
-draft: true
+draft: false
 tags: ["blog","story","lockdown"]
 ---
 
@@ -20,7 +20,7 @@ Time is a strange construct these days. It's not just me – there seems to be a
 
 #### Weekdays have a routine
 
-Weekdays mean "work" (except for taking leave on Thursdays). For me, this means I get up early and aim to start by 7:00. I then tend to work straight through until the early afternoon. When there's a lot to do, this works very well and I feel quite energised with a good sense of purpose about the morning. Conversely, when there is less to do, maintaining any sort of focus at all is difficult.
+Weekdays mean "work" (except for taking leave on Thursdays). For me, this means I get up early and aim to start by 7:00. I dress for work, even including a tie some days. I then tend to work straight through until the early afternoon. When there's a lot to do, this works very well and I feel quite energised with a good sense of purpose about the morning. Conversely, when there is less to do, maintaining any sort of focus at all is difficult.
 
 The benefit to working in this way is that I have more free time to spend in the afternoon and evening. Since part of that is taken up with exercise, having the extra time means I don't have to choose between exercise and other leisure.
 
@@ -52,9 +52,10 @@ One downside of exercise being one of the few reasons for people to go outside h
 
 ### Productivity is poor
 
-* It's just not busy enough to thrive
-* When there's work to do, I'm brilliant
+Of all the difficulties at the moment, not being busy is probably the hardest for me. I have a good work routine and a work ethic that would capitalise on that. Unfortunately, I am not busy enough to do that. I can find myself completing all my tasks well before 10:00, and the remaining hours are spent trying to do useful things. This is quite good sometimes, because it means I can catch up with lower priority work. It also allows me to research more widely and try to develop my skills. But it's not the same as being busy.
+
+When there is a lot to do, my days are brilliant. I can thrive on the work, working to my own timetable, and get so much work done in an efficient way. I just need to find more to do.
 
 ## Summary
 
-* It's sustainable.
+As I wrote previously, I am surprised at how well I seem to have adapted to this new way of life. Time will tell though, and I might eventually get bored with the routine. Right now though, thinking about the future, I would like to incorporate at least some amount of remote working into my routine.
