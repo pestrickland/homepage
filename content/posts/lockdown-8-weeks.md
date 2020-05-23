@@ -1,6 +1,7 @@
 ---
 title: "Eight Weeks of Lockdown"
 date: 2020-05-21T09:01:06Z
+updated: 2020-05-23T16:25:36Z
 showDate: true
 draft: false
 tags: ["blog","story","lockdown"]
@@ -12,31 +13,31 @@ It's hard to believe that it's been another five weeks since I [first wrote]({{<
 
 ## How I'm doing
 
-I have split this into a few different topics based on the particular way that I am affected. I'm very fortunate in many ways but I think it's important to break down the good and bad aspects of my situation.
+I split this into a few different topics based on the particular way that I have been affected. I'm very fortunate in many ways but it's important for me to consider the good and bad aspects of my situation.
 
-### The week
+### How the week feels now
 
-Time is a strange construct these days. It's not just me – there seems to be a large amount of checking and confirming the day of the week in general. This was certainly not helped by the May Day Bank Holiday being replaced by a VE Day Bank Holiday and moved to a Friday.
+Time is a strange construct these days. It's not just me – there's quite a lot of joking about checking the day of the week in society. This was certainly not helped by the May Day Bank Holiday being moved to a Friday to be replaced by a VE Day Bank Holiday.
 
 #### Weekdays have a routine
 
-Weekdays mean "work" (except for taking leave on Thursdays). For me, this means I get up early and aim to start by 7:00. I dress for work, even including a tie some days. I then tend to work straight through until the early afternoon. When there's a lot to do, this works very well and I feel quite energised with a good sense of purpose about the morning. Conversely, when there is less to do, maintaining any sort of focus at all is difficult.
+Weekdays mean "work" (except for taking leave on Thursdays). For me, this means I get up early and aim to start by 7:00. I dress for work, even including a tie some days, and then tend to work straight through until the early afternoon. When there's a lot to do, this works very well and I feel quite energised with a good sense of purpose about the morning. Conversely, when there is less to do, maintaining any sort of focus at all is difficult.
 
-The benefit to working in this way is that I have more free time to spend in the afternoon and evening. Since part of that is taken up with exercise, having the extra time means I don't have to choose between exercise and other leisure.
+The benefit to working in this way is that I have more free time to spend in the afternoon and evening. Since a good part of that can be taken up by exercise, having the extra time means I don't have to choose between exercise and other leisure.
 
 The drawbacks of working in this way is that it seems to be very intense. It is not uncommon for me to feel utterly exhausted by about 15:00. Part of this is probably because I hit a natural low point at that time of day, but I also think that it highlights that work -- that is, thinking -- is hard and consumes a lot of my energy.
 
 #### Weekends are odd
 
-In contrast to the working week, weekends are difficult. There is much less structure, and I think this is where I suffer. I can be incredibly enthused on Friday about the potential of the weekend, only to feel despair by Saturday afternoon.
+In contrast to the working week, weekends are difficult. There is much less structure and I think this is where I suffer. I can be incredibly enthused on Friday about the potential of the weekend, only to feel despair by Saturday afternoon at my apparent failure.
 
-Oddly enough, the weekend is the part of my routine that is least altered by the lockdown situation. I am quite used to spending a weekend on my own, sometimes only heading out for a run. I don't understand what the problem is with this part of the week, but it is quite annoying.
+Oddly enough, the weekend is the part of my routine that is least altered by the lockdown situation. I am quite used to spending a weekend on my own, sometimes only heading out for a run. So I don't understand what the problem is with this part of the week, but it is quite annoying.
 
 ### Shopping is stressful
 
-One of the big events of the week is the shopping trip. I only shop once a week and this works quite well. The shop has an excellent queuing arrangement, a limited number of customers inside at any time, plenty of space and queuing hasn't taken very long. Despite all of this, shopping is the single thing I dread the most each week. I put it off, feel stressed prior to going, and feel exhausted when I come back.
+One of the big events of the week is the shopping trip. I only shop once a week and this works quite well. The shop has an excellent queuing arrangement, a limited number of customers inside at any time, plenty of space and queuing hasn't taken very long. Despite all of this, shopping is the single thing I dread the most each week. I put it off, feel stressed before going, and feel exhausted when I come back.
 
-The shopping experience itself is not too bad. I am cautious about keeping a safe distance from people, particularly those who are older or otherwise vulnerable, and I also don't want to be seen as blasé by others. Despite this, there are plenty of people who don't seem to be as cautious as me. This is annoying but doesn't worry me personally. Still, I am glad when it's done for the week.
+The shopping experience itself is not too bad. I am cautious about keeping a safe distance from people, particularly those who are older or otherwise vulnerable (and I also don't want to be seen as blasé by others). However, there are plenty of people who don't seem to be as cautious as me. This is annoying but doesn't worry me personally. Still, I am glad when it's done for the week.
 
 ### Exercise is great
 
@@ -58,4 +59,4 @@ When there is a lot to do, my days are brilliant. I can thrive on the work, work
 
 ## Summary
 
-As I wrote previously, I am surprised at how well I seem to have adapted to this new way of life. Time will tell though, and I might eventually get bored with the routine. Right now though, thinking about the future, I would like to incorporate at least some amount of remote working into my routine.
+As I wrote previously, I am surprised at how well I seem to have adapted to this new way of life. Time will tell though, and I might eventually get bored with the routine. Right now, thinking about the future, I would like to incorporate at least some amount of remote working into my routine.
