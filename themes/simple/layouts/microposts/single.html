@@ -1,10 +1,20 @@
 {{ define "main" }}
 <main id="content">
-    <article class="micropost">
+    <div class="meta">
+        <span>{{- .Date.Format ("15:04 on Monday 02 January 2006" | default "02 January 2006") -}}</span>
+        {{/* with .Params.tags }}
+        <div class="tag-container">
+            {{ range .}}
+            <span class="tag">
+                <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{.}}</a>
+            </span>
+            {{ end }}
+        </div>
+        {{ end */}}
+        {{/*  <hr />  */}}
+    </div>
+    <article>
         {{ .Content }}
-        <aside class="dates">
-            <a href="{{ .Permalink }}">{{ .Date.Format (.Site.Params.dateForm | default "03:45, 02 January 2006") }}</a>
-        </aside>
     </article>
 </main>
 {{ end }}

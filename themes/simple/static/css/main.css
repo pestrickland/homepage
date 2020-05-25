@@ -190,6 +190,11 @@ main p {
   color: #1446a0;
 }
 
+.meta {
+  font-style: italic;
+  color: #1446a0;
+}
+
 .microposts h2 {
   margin-block-start: 1em;
   margin-block-end: 1em;
