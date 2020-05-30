@@ -66,3 +66,19 @@ A newly created object is pointed to by the process that creates it. In other wo
 
 
 ### Processes
+
+## What is it that we actually do?
+
+* We don't produce things
+* We don't build things
+* We don't design things
+* We don't assemble things
+
+The examples above are common examples used in systems engineering, as so much of the theory seems to be based in the design and manufacture space. But we don't do that. I think before we go any further we need to establish clearly what it is we *do*.
+
+
+## How to handle a customer request
+
+A customer is expected to write a requirement that is sent to us. We would then act on that requirement.
+
+
