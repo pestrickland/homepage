@@ -7,9 +7,7 @@ draft: false
 tags: ["blog","story","lockdown"]
 ---
 
-## Introduction
-
-It's hard to believe that it's been another five weeks since I [first wrote]({{< ref "lockdown-3-weeks" >}}) about adjusting to life spent mainly at home. Whilst I wouldn't say that it seems completely normal now, it is certainly a lot less strange to live like this than it first felt.
+ It's hard to believe that it's been another five weeks since I [first wrote]({{< ref "lockdown-3-weeks" >}}) about adjusting to life spent mainly at home. Whilst I wouldn't say that it seems completely normal now, it is certainly a lot less strange to live like this than it first felt.
 
 ## How I'm doing
 
