@@ -79,6 +79,34 @@ The examples above are common examples used in systems engineering, as so much o
 
 ## How to handle a customer request
 
-A customer is expected to write a requirement that is sent to us. We would then act on that requirement.
+A customer is expected to write a requirement that is sent to us. We would then act on that requirement. Alternatively, the skilled engineer will work with the customer to define the requirement. This approach is preferable and offers the following advantages:
+
+* Saves time -- avoids the back and forth required to iterate and agree the requirement
+* Reduces risk -- working with the customer helps to avoid confusion or misunderstanding of ambiguous requirements
+
+Working with the customer isn't without some disadvantages:
+
+* Risks saying yes too quickly
+* Risks being too eager to please
+* Risks groupthink between the customer and subset of engineering team
+
+The  problem we have is in converting the request from the customer into something that is appropriate for our needs. What we need to do is elicit the requirements in a structured or formal manner. For example what we need to determine is:
+
+* Assessment boundary
+* Scope
+* Time constraints
+* Priority
+* Options
+* Regulations
+* Standards
+* Safety
+* Compliance
+* Capability
+
+The challenge, then, is to develop a system that rigorously interrogates the requirement and structures or formalises it in a way that is clear and unambiguous, and forms the success criteria against which the solution is measured. Getting the requirements right, in other words, maximises the chance of a successful project delivering quality at an appropriate cost and in good time.
+
+So how do we do this?
+
+## Research
 
 
