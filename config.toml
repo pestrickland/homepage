@@ -20,6 +20,7 @@ googleAnalytics          = ""
                                                          # For each image the small version has to have the same filename as the big version.
     footerText           = "Powered by [Hugo](https://gohugo.io). Hosted on [Netlify](https://www.netlify.com)."
     showMicroposts       = true
+    mainSections         = ["posts", "microposts"]
 
 # Metadata
     description          = "The homepage of Paul Strickland, an aerospace engineer working in the UK defence industry" # Max 160 characters show in search results

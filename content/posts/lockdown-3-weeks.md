@@ -6,8 +6,6 @@ draft: false
 tags: ["blog","story","lockdown"]
 ---
 
-## Introduction
-
 At this point, Easter 2020, the UK has been restricted to lockdown conditions for three weeks. Despite not being a particularly extroverted or social person, there have still been some significant changes I've had to make. I thought it would be a good opportunity to reflect on the past few weeks as I prepare for this situation to be last longer.
 
 ## How I have been affected
