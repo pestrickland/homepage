@@ -1,0 +1,6 @@
+---
+date:
+tags: ["note", "lockdown"]
+---
+
+So much for the "cautious" and "gradual" relaxing of lockdown today. Everywhere seemed to be packed with people! What were they all doing?
