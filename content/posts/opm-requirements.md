@@ -6,11 +6,49 @@ draft: true
 tags: ["blog","systems-thinking", "OPM"]
 ---
 
-## Requirements capture
+## How to handle a customer request
+
+A customer is expected to write a requirement that is sent to us. We would then act on that requirement. Alternatively, the skilled engineer will work with the customer to define the requirement. This approach is preferable and offers the following advantages:
+
+* Saves time -- avoids the back and forth required to iterate and agree the requirement
+* Reduces risk -- working with the customer helps to avoid confusion or misunderstanding of ambiguous requirements
+
+Working with the customer isn't without some disadvantages:
+
+* Risks saying yes too quickly
+* Risks being too eager to please
+* Risks groupthink between the customer and subset of engineering team
+
+The  problem we have is in converting the request from the customer into something that is appropriate for our needs. What we need to do is elicit the requirements in a structured or formal manner. For example what we need to determine is:
+
+* Assessment boundary
+* Scope
+* Time constraints
+* Priority
+* Options
+* Regulations
+* Standards
+* Safety
+* Compliance
+* Capability
+
+The challenge, then, is to develop a system that rigorously interrogates the requirement and structures or formalises it in a way that is clear and unambiguous, and forms the success criteria against which the solution is measured. Getting the requirements right, in other words, maximises the chance of a successful project delivering quality at an appropriate cost and in good time.
+
+So how do we do this?
+
+### Initial requirements capture
 
 Our work needs to be traceable. We provide value by being able to trace the history of our advice back across many years.
 
 It makes sense for us to be able to trace the requirements behind our approach. Why did we choose to do something in a particular way?
+
+## Using a model
+
+We use models all the time as part of the design of a system, or to help simulate its performance, or to predict trends. What about with requirements? Not so much.
+
+I'll focus on our unique case later, but generally, most of us will be familiar with a system requirements specification, or similar document at either a lower level of detail or higher level of abstraction. You know the type: a big DOORS export that is essentially a big table of requirements, all written in natural language (English in my experience). Some effort may have been expended in breaking down the requirements in an apparently rigorous way, but often the supporting attributes contain a lot of boiler plate text.
+
+I recently found possibly the clearest description of the benefits of using modelling for requirements on [YouTube](https://youtu.be/zhLi8VgKTe4). You specify the requirements of a house using a set of drawings rather than a language-based specification. Now, it could be argued that the design is actually part of the solution, but I think it really emphasises the point that if you can just find the right approach and language, your job can be a whole lot easier.
 
 ## OPM learning
 
@@ -75,38 +113,5 @@ A newly created object is pointed to by the process that creates it. In other wo
 * We don't assemble things
 
 The examples above are common examples used in systems engineering, as so much of the theory seems to be based in the design and manufacture space. But we don't do that. I think before we go any further we need to establish clearly what it is we *do*.
-
-
-## How to handle a customer request
-
-A customer is expected to write a requirement that is sent to us. We would then act on that requirement. Alternatively, the skilled engineer will work with the customer to define the requirement. This approach is preferable and offers the following advantages:
-
-* Saves time -- avoids the back and forth required to iterate and agree the requirement
-* Reduces risk -- working with the customer helps to avoid confusion or misunderstanding of ambiguous requirements
-
-Working with the customer isn't without some disadvantages:
-
-* Risks saying yes too quickly
-* Risks being too eager to please
-* Risks groupthink between the customer and subset of engineering team
-
-The  problem we have is in converting the request from the customer into something that is appropriate for our needs. What we need to do is elicit the requirements in a structured or formal manner. For example what we need to determine is:
-
-* Assessment boundary
-* Scope
-* Time constraints
-* Priority
-* Options
-* Regulations
-* Standards
-* Safety
-* Compliance
-* Capability
-
-The challenge, then, is to develop a system that rigorously interrogates the requirement and structures or formalises it in a way that is clear and unambiguous, and forms the success criteria against which the solution is measured. Getting the requirements right, in other words, maximises the chance of a successful project delivering quality at an appropriate cost and in good time.
-
-So how do we do this?
-
-## Research
 
 
