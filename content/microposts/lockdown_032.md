@@ -1,5 +1,5 @@
 ---
-date:
+date: 2020-06-01T21:13:58Z
 tags: ["note", "lockdown"]
 ---
 
