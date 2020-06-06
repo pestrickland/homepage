@@ -3,7 +3,7 @@
       {
         "id": "n0",
         "label": "Requirements have been defined",
-        "x": 0,
+        "x": -1,
         "y": 0,
         "size": 3
       },
@@ -17,7 +17,7 @@
       {
         "id": "n11",
         "label": "Delivery date has been defined",
-        "x": -4,
+        "x": -3,
         "y": 1.5,
         "size": 3
       },
@@ -38,21 +38,21 @@
       {
         "id": "n2",
         "label": "Terms and definitions have been defined",
-        "x": 2,
-        "y": 1,
+        "x": 0,
+        "y": 0.5,
         "size": 2
       },
       {
         "id": "n21",
         "label": "Regulations have been defined",
-        "x": 0.5,
+        "x": -0.5,
         "y": 1.5,
         "size": 3
       },
       {
         "id": "n22",
         "label": "Safety criteria have been defined",
-        "x": 2,
+        "x": 1,
         "y": 2.5,
         "size": 3
       }
