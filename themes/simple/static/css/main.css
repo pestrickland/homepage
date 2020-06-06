@@ -247,6 +247,15 @@ aside > nav {
   padding-left: 1em;
 }
 
+.footnote-backref {
+  visibility: hidden;
+}
+
+.footnote-backref::before {
+    content: "↑";
+    visibility: visible;
+  }
+
 footer {
   grid-area: footer;
   line-height: 1;
