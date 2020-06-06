@@ -8,7 +8,9 @@
 {{ end }}
 {{ define "main" }}
 <main>
+    {{ if .Content }}
     <article>{{- .Content -}}</article>
+    {{ end }}
     {{ if .Site.Params.showMicroposts }}
     <section class="microposts">
         <h2>Recent posts</h2>
