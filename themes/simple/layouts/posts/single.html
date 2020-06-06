@@ -26,6 +26,9 @@
     </article>
 </main>
 {{ end }}
+{{ define "aside"}}
+{{ partial "toc.html" . }}
+{{ end }}
 {{/* define "bottom-menu" }}
 <section class="bottom-menu">
     {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}

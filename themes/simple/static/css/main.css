@@ -226,7 +226,25 @@ aside {
 }
 
 aside > nav {
-  margin-top: 1.5em;
+  margin-top: 1em;
+}
+
+#TableOfContents {
+  margin-top: 2em;
+}
+
+#TableOfContents ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+#TableOfContents ul a {
+  text-decoration: none;
+  color: #1446a0;
+}
+
+#TableOfContents ul ul li {
+  padding-left: 1em;
 }
 
 footer {

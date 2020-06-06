@@ -4,22 +4,25 @@ date: 2020-05-25T13:57:32Z
 showDate: true
 draft: true
 tags: ["blog","systems-thinking", "OPM"]
+toc: true
 ---
+
+"Have we done what the customer wanted?" A valid question, yet one that is often asked too late in the project for any corrections to be feasible. Requirements Management is critical to efficient and successful work, yet is often paid lip service if it is considered at all.
 
 ## How to handle a customer request
 
-A customer is expected to write a requirement that is sent to us. We would then act on that requirement. Alternatively, the skilled engineer will work with the customer to define the requirement. This approach is preferable and offers the following advantages:
+A customer is expected to write a requirement that is sent to us. We then act on that requirement. Alternatively, the skilled engineer will work with the customer to define the requirement. This approach is preferable and offers the following advantages:
 
 * Saves time -- avoids the back and forth required to iterate and agree the requirement
 * Reduces risk -- working with the customer helps to avoid confusion or misunderstanding of ambiguous requirements
 
 Working with the customer isn't without some disadvantages:
 
-* Risks saying yes too quickly
-* Risks being too eager to please
-* Risks groupthink between the customer and subset of engineering team
+* It risks the eager engineer saying yes too quickly
+* Being too eager to please (in order to [receive praise]({{<ref "what-drives-us">}})) can taint the "correct" response
+* It increases the chance of *groupthink* emerging between the customer and the engineering team
 
-The  problem we have is in converting the request from the customer into something that is appropriate for our needs. What we need to do is elicit the requirements in a structured or formal manner. For example what we need to determine is:
+Regardless of the initial approach, the  problem we have is in converting the request from the customer into something that is appropriate for our needs. What we need to do is elicit the requirements in a structured or formal manner. For example, what we need to determine usually includes:
 
 * Assessment boundary
 * Scope
@@ -38,17 +41,65 @@ So how do we do this?
 
 ### Initial requirements capture
 
-Our work needs to be traceable. We provide value by being able to trace the history of our advice back across many years.
+Our work needs to be traceable. We provide value by being able to trace the history of our advice back across many years. With this in mind, it makes sense for us to be able to trace the requirements behind our approach. Why did we choose to do something in a particular way?
 
-It makes sense for us to be able to trace the requirements behind our approach. Why did we choose to do something in a particular way?
+#### Using natural language
 
-## Using a model
+I'll focus on our unique case later, but generally most of us will be familiar with a system requirements specification, or similar document at either a lower level of detail or higher level of abstraction. You know the type: a big DOORS export[^1] that is essentially a big table of requirements, all written in natural language (English in my experience). Some effort may have been expended in breaking down the requirements in an apparently rigorous way, but often the supporting attributes contain a lot of boiler plate text.
 
-We use models all the time as part of the design of a system, or to help simulate its performance, or to predict trends. What about with requirements? Not so much.
+[^1]: There are two things to note here: firstly, that I am describing requirements that have been *taken out* of a requirements management tool and reproduced on paper; secondly, because of the first point, it's possible that there is much more rich contextual information about the requirements that is lost when a simple table is produced.
 
-I'll focus on our unique case later, but generally, most of us will be familiar with a system requirements specification, or similar document at either a lower level of detail or higher level of abstraction. You know the type: a big DOORS export that is essentially a big table of requirements, all written in natural language (English in my experience). Some effort may have been expended in breaking down the requirements in an apparently rigorous way, but often the supporting attributes contain a lot of boiler plate text.
+Taking our customer requirement, we could document a requirement like this:
 
-I recently found possibly the clearest description of the benefits of using modelling for requirements on [YouTube](https://youtu.be/zhLi8VgKTe4). You specify the requirements of a house using a set of drawings rather than a language-based specification. Now, it could be argued that the design is actually part of the solution, but I think it really emphasises the point that if you can just find the right approach and language, your job can be a whole lot easier.
+1. The solution shall be delivered no later than 31 December 2020
+2. The solution shall be reported in accordance with regulation X
+3. The supplier shall provide updates at least once per month
+4. The solution shall be provided in a PDF format
+5. The supplier shall assess risk against the provided criteria
+6. and so on...
+
+It's easy to see how a large list of requirements could be produced and keeping them organised can be a problem. More critical is how to ensure that all aspects of the requirement have been captured. Starting from a blank sheet of paper is problematic and can lead to things being missed.
+
+A structured template could help with this. The requirements listed above could be organised into two categories:
+
+* Delivery requirements
+  * Delivery dates, including updates
+  * Delivery format
+* Definitions
+  * Regulations to be used
+  * Definitions or assessment criteria
+
+By using structure like this, it is easier to determine whether or not anything has been forgotten. For the more visual thinkers, this can be simply illustrated using a diagram.
+
+{{<rawhtml>}}
+<style type="text/css">
+  #container {
+    max-width: 400px;
+    height: 400px;
+    margin: auto;
+  }
+</style>
+<div id="container"></div>
+<script src="/js/vendor/sigma.js-1.2.1/build/sigma.min.js"></script>
+<script src="/js/vendor/sigma.js-1.2.1/build/plugins/sigma.parsers.json.min.js"></script>
+<script>
+  sigma.parsers.json('/data/data.json', {
+    container: 'container',
+    settings: {
+      defaultNodeColor: '#ec5148'
+    }
+  });
+</script>
+{{</rawhtml>}}
+
+#### Using a model
+
+Models are frequently used as part of the design of a system, or to help simulate its performance, or to predict trends. What about with requirements? It's not so clear.
+
+I recently found what I think is the clearest explanation of the benefits of modelling requirements on [YouTube](https://youtu.be/zhLi8VgKTe4). You specify the requirements of a house using a set of drawings rather than a language-based specification. Now, it could be argued that the design is actually part of the solution, but I think it really emphasises the point that if you can just find the right approach and language, your job can be a whole lot easier.
+
+
+
 
 ## OPM learning
 
