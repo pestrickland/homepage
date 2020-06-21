@@ -1,9 +1,9 @@
 ---
 title: Requirements Engineering
-date: 2020-05-25T13:57:32Z
+date:
 showDate: true
 draft: true
-tags: ["blog","systems-thinking", "requirements"]
+tags: [blog, systems-thinking, requirements]
 toc: true
 ---
 
@@ -119,6 +119,3 @@ Looking at the example above, the structure of the requirement categories is the
 The large size of this list is daunting, yet it is easy to see how such detail can be useful to fully define a set of requirements. But before I embarked on trying to develop a system to more rigorously apply a comprehensive system of requirements engineering to my work, I was interested to see what other types of model, if any, might exist.
 
 I recently found what I think is the clearest explanation of the benefits of modelling requirements by Contrux Software's [Brain Bytes.](https://youtu.be/zhLi8VgKTe4) You specify the requirements of a house using a set of drawings rather than a language-based specification. Now, it could be argued that the design is actually part of the solution, but I think it really emphasises the point that if you can just find the right approach and language, your job can be a whole lot easier.
-
-
-
