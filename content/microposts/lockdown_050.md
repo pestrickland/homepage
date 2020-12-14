@@ -1,6 +1,6 @@
 ---
-date: 2020-12-05T09:28:38Z
+date: 2020-12-14T22:43:04Z
 tags: [note, lockdown]
 ---
 
-I'm not anti-government. I'm just anti-this-government.
+Sleighbells have arrived on the radio; it must be nearly Christmas. What will it bring for us all this year I wonder.
