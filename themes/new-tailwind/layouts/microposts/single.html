@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main id="content">
+    <div class="meta">
+        <span>{{- .Date.Format ("15:04 on Monday 02 January 2006" | default "02 January 2006") -}}</span>
+        {{/* with .Params.tags }}
+        <div class="tag-container">
+            {{ range .}}
+            <span class="tag">
+                <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{.}}</a>
+            </span>
+            {{ end }}
+        </div>
+        {{ end */}}
+        {{/*  <hr />  */}}
+    </div>
+    <article>
+        {{ .Content }}
+    </article>
+</main>
+{{ end }}
+{{ define "bottom-menu" }}
+<section class="bottom-menu">
+    {{ partial "bottom_menu.html" (dict "Page" . "show_back_menu_item" true) }}
+</section>
+{{ end }}

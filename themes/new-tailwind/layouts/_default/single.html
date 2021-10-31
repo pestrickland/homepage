@@ -1,0 +1,27 @@
+{{ define "main" }}
+  <main>
+    <div class="prose homepage-content">{{- .Content -}}</div>
+  </main>
+{{ end }}
+{{ define "aside" }}
+  <aside>
+    <section class="grid">
+      {{ if .Site.Params.mainMenu }}
+        {{ range .Site.Params.mainMenu }}
+          <div>
+            <a href="{{ .link }}">{{ .text }}</a>
+          </div>
+        {{ end }}
+      {{ else }}
+        {{ range .Site.Sections }}
+          <div><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+        {{ end }}
+      {{ end }}
+    </section>
+  </aside>
+  <div class="homepage-snippets">
+    {{ range first 10 .Site.RegularPages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </div>
+{{ end }}
