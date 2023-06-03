@@ -1,5 +1,5 @@
 ---
 title: "Paul Strickland"
-subtitle: "Musings of an engineer"
 ---
 
+My writing has now moved to [Substack](https://pestrickland.substack.com).
