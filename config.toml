@@ -1,52 +1,32 @@
 baseurl                  = "https://pestrickland.co.uk/" # Your domain name. Must end with "/"
 languageCode             = "en-gb"
+defaultContentLanguage   = "en"
 title                    = "Paul Strickland"
-theme                    = "simple"
-pygmentsStyle            = "monokai"                     # https://help.farbox.com/pygments.html
-pygmentsCodefences       = true
-relativeURLs             = true
-googleAnalytics          = ""
+enableEmoji              = true
 
-[params]
-    dateform             = "2006-01-02"
-    dateformfull         = "Monday 02 January 2006 15:04:05 EST"
-    favicon              = "/sam.ico"
-    homepage             = "Home"                        # What to call the home page link
-    galleryFolder        = "images/"                     # Where you've put your images, after "/content/gallery/" (eg. "images/")
-    clickablePhotos      = true                          # Allow links to the full size images
-    smallPreviewImages   = true                          # Show thumbnails (small images) instead of using full size images on the gallery page
-                                                         # Note: This will only become active if clickablePhotos is also true.
-    smallImagesSubfolder = "small/"                      # Folder for image thumbnails (small versions) after "/content/gallery/[galleryFolder]" (eg. "small/")
-                                                         # For each image the small version has to have the same filename as the big version.
-    footerText           = "Powered by [Hugo](https://gohugo.io). Hosted on [Netlify](https://www.netlify.com)."
-    showMicroposts       = true
-    mainSections         = ["posts", "microposts"]
+[author]
+name                     = "Paul Strickland"
+headline                 = "An aerospace engineer who likes to run, sew, knit and spin"
+image                    = "profile.jpg"
+
+links = [
+    { github = "https://www.github.com/pestrickland" },
+    { email = "mailto:paul@pestrickland.co.uk" },
+    { gitlab = "https://gitlab.com/pestrickland" },
+    { instagram = "https://instagram.com/pestrickland" },
+    { keybase = "https://keybase.io/pestrickland" },
+    { linkedin = "https://linkedin.com/in/pestrickland" },
+    { mastodon = "https://mastodon.social/@pestrickland" },
+    { reddit = "https://reddit.com/user/pestrickland" },
+    { strava = { href = "https://www.strava.com/athletes/paul_strickland", text = "Strava" }},
+    { substack = { href = "https://pestrickland.substack.com/", text = "Substack"}},
+]
+
+[module]
+    [module.hugoVersion]
+        extended = false
+        min = "0.86.1"
+
 
 # Metadata
-    description          = "The homepage of Paul Strickland, an aerospace engineer working in the UK defence industry" # Max 160 characters show in search results
-    twitterCard          = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
-    primaryImage         = "/tn.png"                     # Image that shows on Twitter cards and OpenGraph links
-
-[[params.mainMenu]]
-    link = "/posts"
-    text = "Writing"
-
-[[params.mainMenu]]
-    link = "/about"
-    text = "About Paul"
-
-[[params.mainMenu]]
-    link = "/microposts"
-    text = "Microposts"
-
-[[params.mainMenu]]
-    link = "https://graffiti.pestrickland.co.uk"
-    text = "Graffiti Notebook"
-
-[[params.mainMenu]]
-    link = "https://strava.com/athletes/paul_strickland"
-    text = "Strava"
-
-[[params.mainMenu]]
-    link = "https://www.linkedin.com/in/pestrickland"
-    text = "LinkedIn"
+#    description          = "The homepage of Paul Strickland, an aerospace engineer working in the UK defence industry" # Max 160 characters show in search results
