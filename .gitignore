@@ -1,3 +1,7 @@
-public/
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 themes/simple/static/js/vendor/sigma.js-1.2.1/*
 !/themes/simple/static/js/vendor/sigma.js-1.2.1/build/
+.hugo_build.lock
